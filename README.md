@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####👋 Hello, I'm Mau Tuan Lam!
+#### 👋 Hello, I'm Mau Tuan Lam!
 
 👨‍💻 Software Developer | ☁️ Cloud Enthusiast | 🌐 Open Source Advocate
 
