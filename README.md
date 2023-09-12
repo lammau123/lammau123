@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   
 🤝 Let's connect and collaborate on exciting projects. Feel free to reach out for discussions, code reviews, or just to share ideas. Together, we can build a brighter digital future!
 
-📫 You can find me on [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/mau-lam-569911170/)), or drop me an email at lammau123@gmail.com. Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/mau-lam-569911170/), or drop me an email at lammau123@gmail.com. Looking forward to connecting with fellow developers and tech enthusiasts! 🚀
